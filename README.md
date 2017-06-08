@@ -7,31 +7,33 @@ Each icon can be used in an &lt;img&gt; tag as follows:
 
 where symbol is one of the following codes:
 
-sunny
-clear-night
-pcloudy-day
-pcloudy-night
-mcloudy-day
-mcloudy-night
-cloudy
-fog-day
-fog-night
-windy
-showers
-isoshowers-day
-isoshowers-night
-drizzle
-rain
-flurries
-snow
-heavysnow
-isosnow-day
-isosnow-night
-mix
-cold
-storms
-isostorms-day
-isostorms-night
+<ul>
+    <li>sunny</li>
+    <li>clear-night</li>
+    <li>pcloudy-day</li>
+    <li>pcloudy-night</li>
+    <li>mcloudy-day</li>
+    <li>mcloudy-night</li>
+    <li>cloudy</li>
+    <li>fog-day</li>
+    <li>fog-night</li>
+    <li>windy</li>
+    <li>showers</li>
+    <li>isoshowers-day</li>
+    <li>isoshowers-night</li>
+    <li>drizzle</li>
+    <li>rain</li>
+    <li>flurries</li>
+    <li>snow</li>
+    <li>heavysnow</li>
+    <li>isosnow-day</li>
+    <li>isosnow-night</li>
+    <li>mix</li>
+    <li>cold</li>
+    <li>storms</li>
+    <li>isostorms-day</li>
+    <li>isostorms-night</li>
+</ul>
 
 Each icon is composed of one of seven symbols (sun, moon, cloud, lightning bolt, raindrop, rain shower, snow flake). By repeating this symbols throughout the file, the amount of code needed is greatly reduced.
 
