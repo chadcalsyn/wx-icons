@@ -35,5 +35,5 @@ isostorms-night
 
 Each icon is composed of one of seven symbols (sun, moon, cloud, lightning bolt, raindrop, rain shower, snow flake). By repeating this symbols throughout the file, the amount of code needed is greatly reduced.
 
-You may use these icons for free, but an attribution somewhere in your site would be greatly appreciated.
+You may use these icons for free, but an attribution somewhere in your site would be greatly appreciated. 
 
