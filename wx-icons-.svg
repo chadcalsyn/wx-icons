@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+        <g id="cloud" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <path d="M16.148 9.87a6.998 6.998 0 0 0-6.867 5.668 4.295 4.295 0 0 0-.42-.02 4.295 4.295 0 0 0-4.295 4.295A4.295 4.295 0 0 0 8.8 24.105v.024h15.24v-.022a5.044 5.044 0 0 0 4.657-5.027 5.044 5.044 0 0 0-5.044-5.042 5.044 5.044 0 0 0-1.06.12 6.998 6.998 0 0 0-6.445-4.288z" fill="silver" stroke="gray" stroke-width=".54056"/><path d="M15.52 10.886a6.298 6.298 0 0 0-6.18 5.1 3.866 3.866 0 0 0-.378-.018 3.866 3.866 0 0 0-3.866 3.867 3.866 3.866 0 0 0 3.813 3.863v.02h13.713v-.017a4.54 4.54 0 0 0 4.192-4.523 4.54 4.54 0 0 0-4.54-4.54 4.54 4.54 0 0 0-.954.107 6.298 6.298 0 0 0-5.8-3.858z" fill="#e6e6e6"/><path d="M14.89 11.77a5.67 5.67 0 0 0-5.564 4.59 3.48 3.48 0 0 0-.34-.017 3.48 3.48 0 0 0-3.48 3.48A3.48 3.48 0 0 0 8.938 23.3v.02H21.28V23.3a4.085 4.085 0 0 0 3.773-4.072 4.085 4.085 0 0 0-4.085-4.085 4.085 4.085 0 0 0-.86.096 5.67 5.67 0 0 0-5.22-3.47z" fill="#fff"/>
+        </g>     
+        <g id="lightning" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <path d="M13.004 10.432l-4.107 9.733h3.24l-3.304 7.087 10.683-11.056h-4.54l2.43-5.764h-4.402z" fill="#ff0" stroke="olive" stroke-width=".52916"/><path d="M13.19 11.773l-3.072 8h2.424L10.07 25.6l7.99-9.088h-3.396l1.82-4.74z" fill="#ffffde"/>
+        </g>        
+        <g id="raindrop" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <g fill="#2065FF" transform="translate(0 -263.133)"><circle r="7.394" cy="283.605" cx="16.702"/><path d="M16.702 271.128l-6.42 8.77h12.84zm-5.347 12.69l5.347 7.304 5.347-7.304z"/></g><g transform="matrix(.72843 0 0 .72843 3.613 -186.587)" fill="#467fff"><circle r="7.394" cy="283.605" cx="16.702"/><path d="M16.702 271.128l-6.42 8.77h12.84zm-5.347 12.69l5.347 7.304 5.347-7.304z"/></g>          
+        </g>
+        <g id="snowflake" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <path d="M15.253 6.53v2.118L13.536 6.93 11.9 8.57l3.353 3.354v3.23l-2.625-1.515-1.193-4.452-2.236.6L9.792 12l-1.897-1.095L6.74 12.91l1.834 1.06-2.345.628.598 2.236 4.58-1.227 2.75 1.587-2.878 1.662-4.452-1.192-.6 2.236 2.217.593-1.897 1.095 1.158 2.005 1.835-1.06-.627 2.346 2.236.598 1.226-4.58 2.877-1.66v3.218l-3.4 3.4 1.636 1.637 1.763-1.763v2.25h2.315v-2.132l1.622 1.622 1.637-1.637-3.26-3.26v-3.41l2.965 1.71 1.245 4.646 2.236-.6-.645-2.41 1.947 1.125 1.158-2.005-1.846-1.065 2.216-.594-.6-2.235-4.45 1.193-3.003-1.734 2.71-1.564 4.645 1.245.6-2.237-2.41-.645 1.947-1.124-1.157-2.007-1.845 1.066.593-2.217-2.236-.6-1.193 4.453-2.876 1.66v-3.233l3.26-3.26-1.638-1.637-1.622 1.623V6.53z" fill="#80b3ff" stroke="#738fdc" stroke-width=".529"/>
+        </g>
+        <g id="moon" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <path d="M13.937 7.302a10.35 10.35 0 0 0-7.368 9.9 10.35 10.35 0 0 0 10.348 10.35 10.35 10.35 0 0 0 9.982-7.665 9.11 9.11 0 0 1-5.714 2.02 9.11 9.11 0 0 1-9.11-9.11 9.11 9.11 0 0 1 1.86-5.495z" fill="#ebf5fb" stroke="#8aa2ba" stroke-width=".47870053" stroke-linejoin="round"/><path d="M12.528 8.107a10.12 10.12 0 0 0-5.745 9.102 10.12 10.12 0 0 0 10.12 10.118 10.12 10.12 0 0 0 8.676-4.956 9.72 9.72 0 0 1-7.21 3.216 9.72 9.72 0 0 1-9.722-9.72 9.72 9.72 0 0 1 3.88-7.76z" fill="#c0d7ef"/>
+        </g>
+        <g id="shower" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <path fill="#2065FF" d="M12.79 13.172h1.23l-5.456 9.45H7.336z"/><path fill="#467fff" d="M12.79 13.172h.757l-5.455 9.45h-.756z"/><path fill="#2065FF" d="M15.815 13.172h1.228l-5.455 9.45H10.36z"/><path fill="#467fff" d="M15.815 13.172h.756l-5.454 9.45h-.756z"/><path fill="#2065FF" d="M18.744 13.172h1.228l-5.455 9.45H13.29z"/><path fill="#467fff" d="M18.744 13.172h.756l-5.455 9.45h-.756z"/><path fill="#2065FF" d="M21.768 13.172h1.228l-5.455 9.45h-1.227z"/><path fill="#467fff" d="M21.768 13.172h.756l-5.455 9.45h-.757z"/><path fill="#2065FF" d="M24.84 13.172h1.227l-5.455 9.45h-1.228z"/><path fill="#467fff" d="M24.84 13.172h.755l-5.455 9.45h-.756z"/>
+        </g>
+        <g id="sun" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+            <g transform="translate(0 -263.133)"><circle cx="16.655" cy="280.44" r="9.993" fill="#fc0" stroke-width=".529" stroke="#bd7a00"/><circle cx="16.655" cy="280.478" r="9.199" fill="#fd5"/><circle cx="16.711" cy="280.421" r="8.236" fill="#ff0"/></g>
+        </g>
+    </defs>
+    
+    <symbol id="wxicon0" viewBox="0 0 33.866666 33.866668" height="128" width="128">    
+        <use x="10" y="16" xlink:href="#lightning" transform="scale(0.7)" />
+        <use x="0" y="-4" xlink:href="#cloud" />    
+    </symbol>
+
+    <symbol id="wxicon5" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-4" xlink:href="#cloud" />    
+        <use x="15" y="44" xlink:href="#raindrop" transform="scale(0.4)" />
+        <use x="52" y="66" xlink:href="#snowflake" transform="scale(0.3)" />        
+    </symbol>    
+
+    <symbol id="wxicon9" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-4" xlink:href="#cloud" />    
+        <use x="25" y="44" xlink:href="#raindrop" transform="scale(0.4)" />    
+    </symbol>
+
+    <symbol id="wxicon11" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="-4" xlink:href="#cloud" />    
+        <use x="15" y="44" xlink:href="#raindrop" transform="scale(0.4)" />    
+        <use x="33" y="38" xlink:href="#raindrop" transform="scale(0.4)" />        
+    </symbol>
+
+    <symbol id="wxicon12" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="-2" y="6" xlink:href="#shower" />    
+        <use x="0" y="-4" xlink:href="#cloud" />        
+    </symbol>    
+
+    <symbol id="wxicon13" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-4" xlink:href="#cloud" />    
+        <use x="40" y="63" xlink:href="#snowflake" transform="scale(0.3)" />        
+    </symbol>    
+
+    <symbol id="wxicon15" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-4" xlink:href="#cloud" />    
+        <use x="28" y="63" xlink:href="#snowflake" transform="scale(0.3)" />    
+        <use x="52" y="53" xlink:href="#snowflake" transform="scale(0.3)" />        
+    </symbol>       
+
+    <symbol id="wxicon19d" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="0" xlink:href="#sun" transform="scale(0.8)" />    
+        <use x="8" y="8" xlink:href="#cloud" transform="scale(0.8)" opacity="0.6" />        
+    </symbol>
+
+    <symbol id="wxicon19n" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="0" xlink:href="#moon" transform="scale(0.8)" />    
+        <use x="8" y="8" xlink:href="#cloud" transform="scale(0.8)" opacity="0.6" />        
+    </symbol>
+
+    <symbol id="wxicon23" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <g fill="#badeff" stroke="#2e71ff" stroke-width=".529"><path d="M17.02 8.637a3.496 3.496 0 0 0-3.462 3.023h1.55a1.984 1.984 0 0 1 1.948-1.625 1.984 1.984 0 0 1 1.985 1.984 1.984 1.984 0 0 1-1.984 1.984 1.984 1.984 0 0 1-.18-.01v.03H4.45v1.652h12.426v-.052a3.496 3.496 0 0 0 .143.005 3.496 3.496 0 0 0 3.495-3.497 3.496 3.496 0 0 0-3.496-3.496z"/><path d="M24.4 11.117a3.496 3.496 0 0 0-3.462 3.024h1.548a1.984 1.984 0 0 1 1.95-1.624A1.984 1.984 0 0 1 26.42 14.5a1.984 1.984 0 0 1-1.984 1.985 1.984 1.984 0 0 1-.18-.01v.03H4.45v1.652h19.806v-.052a3.496 3.496 0 0 0 .143.005 3.496 3.496 0 0 0 3.494-3.496 3.496 3.496 0 0 0-3.495-3.496zM4.45 19.008v1.653H19.77v.03a1.984 1.984 0 0 1 .18-.01 1.984 1.984 0 0 1 1.984 1.984 1.984 1.984 0 0 1-1.984 1.985 1.984 1.984 0 0 1-1.95-1.627H16.45a3.496 3.496 0 0 0 3.46 3.024 3.496 3.496 0 0 0 3.496-3.496 3.496 3.496 0 0 0-3.496-3.495 3.496 3.496 0 0 0-.142.005v-.052z"/></g>
+    </symbol>
+
+    <symbol id="wxicon25" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="0" xlink:href="#snowflake" />        
+    </symbol>    
+
+    <symbol id="wxicon26" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="-2" xlink:href="#cloud" />        
+    </symbol>
+
+    <symbol id="wxicon27" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="1" xlink:href="#moon" transform="scale(0.6)" />    
+        <use x="0" y="-2" xlink:href="#cloud" />        
+    </symbol>
+
+    <symbol id="wxicon28" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="1" xlink:href="#sun" transform="scale(0.6)" />    
+        <use x="0" y="-2" xlink:href="#cloud" />        
+    </symbol>
+
+    <symbol id="wxicon29" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="1" xlink:href="#moon" transform="scale(0.85)" />    
+        <use x="18" y="5" xlink:href="#cloud" transform="scale(0.6)" />        
+    </symbol>    
+
+    <symbol id="wxicon30" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="1" xlink:href="#sun" transform="scale(0.85)" />    
+        <use x="18" y="5" xlink:href="#cloud" transform="scale(0.6)" />        
+    </symbol>    
+
+    <symbol id="wxicon31" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-1" xlink:href="#moon" />        
+    </symbol>
+
+    <symbol id="wxicon32" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-1" xlink:href="#sun" />        
+    </symbol>
+
+    <symbol id="wxicon37d" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-2" xlink:href="#sun" transform="scale(0.6)" />    
+        <use x="10" y="16" xlink:href="#lightning" transform="scale(0.7)" />
+        <use x="0" y="-4" xlink:href="#cloud" />        
+    </symbol>
+
+    <symbol id="wxicon37n" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-2" xlink:href="#moon" transform="scale(0.6)" />    
+        <use x="10" y="16" xlink:href="#lightning" transform="scale(0.7)" />
+        <use x="0" y="-4" xlink:href="#cloud" />        
+    </symbol>
+
+    <symbol id="wxicon40d" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="-2" xlink:href="#sun" transform="scale(0.6)" />    
+        <use x="-2" y="6" xlink:href="#shower" />    
+        <use x="0" y="-4" xlink:href="#cloud" />        
+    </symbol>
+
+    <symbol id="wxicon40n" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="-2" xlink:href="#moon" transform="scale(0.6)" />    
+        <use x="-2" y="6" xlink:href="#shower" />    
+        <use x="0" y="-4" xlink:href="#cloud" />        
+    </symbol>  
+
+    <symbol id="wxicon41" viewBox="0 0 33.866666 33.866668" height="128" width="128">
+        <use x="0" y="-4" xlink:href="#cloud" />    
+        <use x="28" y="75" xlink:href="#snowflake" transform="scale(0.25)" />    
+        <use x="52" y="65" xlink:href="#snowflake" transform="scale(0.25)" />        
+        <use x="72" y="80" xlink:href="#snowflake" transform="scale(0.25)" />        
+    </symbol>      
+
+    <symbol id="wxicon42d" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="-2" xlink:href="#sun" transform="scale(0.6)" />    
+        <use x="0" y="-4" xlink:href="#cloud" />        
+        <use x="28" y="63" xlink:href="#snowflake" transform="scale(0.3)" />    
+        <use x="52" y="53" xlink:href="#snowflake" transform="scale(0.3)" />        
+    </symbol>   
+
+    <symbol id="wxicon42n" width="128" height="128" viewBox="0 0 33.866666 33.866668">
+        <use x="0" y="-2" xlink:href="#moon" transform="scale(0.6)" />    
+        <use x="0" y="-4" xlink:href="#cloud" />        
+        <use x="28" y="63" xlink:href="#snowflake" transform="scale(0.3)" />    
+        <use x="52" y="53" xlink:href="#snowflake" transform="scale(0.3)" />        
+    </symbol>           
+
+    <view id="storms" viewBox="0 0 128 128" />
+    <view id="mix" viewBox="0 128 128 128" />
+    <view id="drizzle" viewBox="0 256 128 128" />
+    <view id="rain" viewBox="0 384 128 128" />
+    <view id="showers" viewBox="0 512 128 128" />
+    <view id="flurries" viewBox="0 640 128 128" />
+    <view id="snow" viewBox="0 768 128 128" />
+    <view id="fog-day" viewBox="0 896 128 128" />
+    <view id="fog-night" viewBox="0 1024 128 128" />
+    <view id="windy" viewBox="0 1152 128 128" />
+    <view id="cold" viewBox="0 1280 128 128" />
+    <view id="cloudy" viewBox="0 1408 128 128" />
+    <view id="mcloudy-night" viewBox="0 1536 128 128" />
+    <view id="mcloudy-day" viewBox="0 1664 128 128" />
+    <view id="pcloudy-night" viewBox="0 1792 128 128" />
+    <view id="pcloudy-day" viewBox="0 1920 128 128" />
+    <view id="clear-night" viewBox="0 2048 128 128" />
+    <view id="sunny" viewBox="0 2176 128 128" />
+    <view id="isostorms-day" viewBox="0 2304 128 128" />
+    <view id="isostorms-night" viewBox="0 2432 128 128" />
+    <view id="isoshowers-day" viewBox="0 2560 128 128" />
+    <view id="isoshowers-night" viewBox="0 2688 128 128" />
+    <view id="heavysnow" viewBox="0 2816 128 128" />
+    <view id="isosnow-day" viewBox="0 2944 128 128" />
+    <view id="isosnow-night" viewBox="0 3072 128 128" />
+
+    <use xlink:href="#wxicon0" width="128" height="128" x="0" y="0"></use>
+    <use xlink:href="#wxicon5" width="128" height="128" x="0" y="128"></use>
+    <use xlink:href="#wxicon9" width="128" height="128" x="0" y="256"></use>
+    <use xlink:href="#wxicon11" width="128" height="128" x="0" y="384"></use>
+    <use xlink:href="#wxicon12" width="128" height="128" x="0" y="512"></use>
+    <use xlink:href="#wxicon13" width="128" height="128" x="0" y="640"></use>
+    <use xlink:href="#wxicon15" width="128" height="128" x="0" y="768"></use>
+    <use xlink:href="#wxicon19d" width="128" height="128" x="0" y="896"></use>
+    <use xlink:href="#wxicon19n" width="128" height="128" x="0" y="1024"></use>
+    <use xlink:href="#wxicon23" width="128" height="128" x="0" y="1152"></use>
+    <use xlink:href="#wxicon25" width="128" height="128" x="0" y="1280"></use>
+    <use xlink:href="#wxicon26" width="128" height="128" x="0" y="1408"></use>
+    <use xlink:href="#wxicon27" width="128" height="128" x="0" y="1536"></use>
+    <use xlink:href="#wxicon28" width="128" height="128" x="0" y="1664"></use>
+    <use xlink:href="#wxicon29" width="128" height="128" x="0" y="1792"></use>
+    <use xlink:href="#wxicon30" width="128" height="128" x="0" y="1920"></use>
+    <use xlink:href="#wxicon31" width="128" height="128" x="0" y="2048"></use>
+    <use xlink:href="#wxicon32" width="128" height="128" x="0" y="2176"></use>
+    <use xlink:href="#wxicon37d" width="128" height="128" x="0" y="2304"></use>
+    <use xlink:href="#wxicon37n" width="128" height="128" x="0" y="2432"></use>
+    <use xlink:href="#wxicon40d" width="128" height="128" x="0" y="2560"></use>
+    <use xlink:href="#wxicon40n" width="128" height="128" x="0" y="2688"></use>
+    <use xlink:href="#wxicon41" width="128" height="128" x="0" y="2816"></use>
+    <use xlink:href="#wxicon42d" width="128" height="128" x="0" y="2944"></use>
+    <use xlink:href="#wxicon42n" width="128" height="128" x="0" y="3072"></use>
+
+</svg>
