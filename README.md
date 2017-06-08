@@ -1,9 +1,9 @@
 # wx-icons
 These SVG files show an example of how to use SVG sprites to combine many images into one compact file. The minified version of the SVG file is only 11KB and has the ability to display one of 25 weather icons in clear vector quality at any size.
 
-Each icon can be used in an <img> tag as follows:
+Each icon can be used in an &lt;img&gt; tag as follows:
 
-<img src="wx-icons.svg#symbol">
+&lt;img src="wx-icons.svg#symbol"&gt;
 
 where symbol is one of the following codes:
 
