@@ -38,6 +38,8 @@ where symbol is one of the following codes:
 A working example can be found here:
 http://calsynwx.x10host.com/images/wx-icons-min.svg#storms
 
+A version of these icons are in use on my <a href="http://calsynwx.x10host.com" target="_blank">Calsyn Weather</a> site.
+
 Each icon is composed of one of seven symbols (sun, moon, cloud, lightning bolt, raindrop, rain shower, snow flake). By repeating these symbols throughout the file, the amount of code needed is greatly reduced.
 
 You may use these icons for free, but an attribution somewhere in your site would be greatly appreciated. 
